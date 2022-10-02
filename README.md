@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emmanuelikoya99@gmail.com)
 
 Welcome to my Github page! I am Segun, a Software Engineering and Automation Enthusiast.
-<img align="right" alt="img" src="https://github.com/sheggz/sheggz/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
